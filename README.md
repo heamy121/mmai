@@ -1,4 +1,4 @@
-# MMAI 2026 - Valdemar Danry
+# MMAI 2026 - Amy He
 
 Welcome to my site for Modeling Multimodal AI 2026.
 This repo contains my homework assignments and random thoughts throughout the class.
@@ -6,11 +6,7 @@ This repo contains my homework assignments and random thoughts throughout the cl
 ## Bio
 <img src="./imgs/profile.png" style="width:200px;">
 
-hi i’m valdemar. i arrived at MIT through a series of poor containment decisions involving curiosity and the internet. i do research on AI and human thinking which mostly means building experimental systems that refuse to let people intellectually vibe through life unchecked. i like making art / physical things and music. sometimes i produces papers. 
-
-## Final Project
-For my final project I created a brainrot optimized multi-modal generator (text, video, audio, tactile brainrot).
-[![MindMapper Demo](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+Hi! I'm Amy, a junior interested in building things and exploring AI.
 
 ## Homework
 - [Homework 1 - Dataset: Hamster Cognitive State Classifier](./homework/homework-1/)
