@@ -4,8 +4,6 @@ Welcome to my site for Modeling Multimodal AI 2026.
 This repo contains my homework assignments and random thoughts throughout the class.
 
 ## Bio
-<img src="./imgs/profile.png" style="width:200px;">
-
 Hi! I'm Amy, a junior interested in building things and exploring AI.
 
 ## Homework
