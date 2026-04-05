@@ -8,7 +8,7 @@ Hi! I'm Amy, a junior interested in building things and exploring AI.
 
 ## Homework
 - [Homework 1: Processing the NLVR Dataset](./homework/homework-1/)
-- [Homework 2 - Fusion: Model That Fuses Weather Data, Tweets, and My Sleep Schedule to Predict Existential Dread
+- [Homework 2: Exploring Multimodal Emotion with CMU MOSEI
 ](./homework/homework-2/)
 - [Homework 3 - VLM: Training a Model on 10,000 Reddit Arguments and Release It Into Slack](./homework/homework-3/)
 
