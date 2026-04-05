@@ -7,7 +7,7 @@ This repo contains my homework assignments and random thoughts throughout the cl
 Hi! I'm Amy, a junior interested in building things and exploring AI.
 
 ## Homework
-- [Homework 1 - Dataset: NLVR] (./homework/homework-1/)
+- [Homework 1](./homework/homework-1/)
 - [Homework 2 - Fusion: Model That Fuses Weather Data, Tweets, and My Sleep Schedule to Predict Existential Dread
 ](./homework/homework-2/)
 - [Homework 3 - VLM: Training a Model on 10,000 Reddit Arguments and Release It Into Slack](./homework/homework-3/)
