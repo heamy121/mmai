@@ -4,7 +4,7 @@ Welcome to my site for Modeling Multimodal AI 2026.
 This repo contains my homework assignments and random thoughts throughout the class.
 
 ## Bio
-Hi! I'm Amy, a junior interested in building things and exploring AI.
+Hi! I'm Amy, a junior interested in building things and exploring AI. Outside of AI, I enjoy learning about theoretical machine learning, game theory, and probability. If I am not at my desk, you can find me running around the Charles River or enjoying a K-pop concert. 
 
 ## Homework
 - [Homework 1: Processing the NLVR Dataset](./homework/homework-1/)
