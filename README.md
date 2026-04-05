@@ -11,9 +11,7 @@ Hi! I'm Amy, a junior interested in building things and exploring AI.
 - [Homework 2 - Fusion: Model That Fuses Weather Data, Tweets, and My Sleep Schedule to Predict Existential Dread
 ](./homework/homework-2/)
 - [Homework 3 - VLM: Training a Model on 10,000 Reddit Arguments and Release It Into Slack](./homework/homework-3/)
-- [Homework 4 - RL Model That Learns the Optimal Moment to Say Something Smart in a Seminar
-](./homework/homework-3/)
-- [Homework 5 - Agent That Runs a Cult but Uses Reinforcement Learning for Member Retention](./homework/homework-3/)
+
 
 
 ## Website License
