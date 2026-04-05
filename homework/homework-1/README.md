@@ -1,5 +1,4 @@
-# Homework 1 - Classifying Hamster Cognitive States
-
+# Homework 1 - Processing the NLVR Dataset
 
 For homework 1, I analyzed the NLVR dataset in preparation for creating a multimodal model that can perform spatial and logical reasoning.
 
