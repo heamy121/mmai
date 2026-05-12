@@ -11,6 +11,9 @@ Hi! I'm Amy, a junior interested in building things and exploring AI. Outside of
 - [Homework 2: Exploring Multimodal Emotion with CMU MOSEI
 ](./homework/homework-2/)
 - [Homework 3: Multimodal Emotion Modeling with MLLMs](./homework/homework-3/)
+- [Homework 4: Using Reinforcement Learning for Vision Language Models](./homework/homework-4/)
+- [Homework 5: Buding an Emotional Support Agent](./homework/homework-5/)
+
 
 
 
