@@ -14,7 +14,8 @@ Hi! I'm Amy, a junior interested in building things and exploring AI. Outside of
 - [Homework 4: Using Reinforcement Learning for Vision Language Models](./homework/homework-4/)
 - [Homework 5: Buding an Emotional Support Agent](./homework/homework-5/)
 
-
+## Project
+I worked with Minnie Liang and Eva Ge to develop a noise-robust multimodal emotion detector that was evaluated on the CMU-MOSEI dataset.
 
 
 ## Website License
