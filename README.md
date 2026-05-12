@@ -15,7 +15,8 @@ Hi! I'm Amy, a junior interested in building things and exploring AI. Outside of
 - [Homework 5: Buding an Emotional Support Agent](./homework/homework-5/)
 
 ## Project
-I worked with Minnie Liang and Eva Ge to develop a noise-robust multimodal emotion detector that was evaluated on the CMU-MOSEI dataset.
+I worked with Minnie Liang and Eva Ge to develop a noise-robust multimodal emotion detector that was evaluated on the CMU-MOSEI dataset. You can view the [code here.](./project_code)
+
 
 
 ## Website License
